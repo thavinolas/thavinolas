@@ -2,7 +2,7 @@
 
 Meu nome é Thaviny Campos
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem do JavaScript
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
